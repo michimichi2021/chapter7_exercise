@@ -1,0 +1,39 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.mainvisual{
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+  height:400px;
+}
+
+.mainvisual h2{
+  color:#848282;
+  padding-top:20px;
+  padding-left:20px;
+}
+
+.maincontents{
+ 
+  width:840px;
+  margin:50px auto 50px;
+}
+
+#content1{
+  width:840px;
+  border-bottom:solid 1px #848282;
+  padding-bottom:30px;
+}
+
+.content{
+  width:840px;
+  border-bottom:solid 1px #848282;
+  padding-bottom:30px;
+  padding-top:30px;
+  
+}
+
